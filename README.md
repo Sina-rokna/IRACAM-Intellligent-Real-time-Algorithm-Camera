@@ -1,4 +1,4 @@
-# IRACAM-Intelligent-Real-time-Algorithm-Camera  
+# IRACAM: Intelligent Real time Algorithm Camera  
 
 **Distance Estimation Using a Single Camera for Autonomous Vehicles**  
 **Duration:** September 2023 – January 2024  
