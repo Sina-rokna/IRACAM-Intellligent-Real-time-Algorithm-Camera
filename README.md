@@ -33,8 +33,6 @@ Hassan Jalali
 Jalal Nematbakhsh  
 Hossein Damavandi  
 Amir Kabirian  
-Alireza Rasouli  
-
 ---
 
 ## Contact  
